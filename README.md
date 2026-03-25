@@ -1,4 +1,4 @@
- # Polymarket Weather Bot                                                                                                                                                                                                                        A Python trading bot for Polymarket US temperature prediction markets. Identifies statistical discrepancies between     retail market prices and official NOAA NWS forecasts, then places limit orders when expected edge clears a              risk-adjusted threshold.
+# Polymarket Weather Bot                                                                                                                                                                                                                        A Python trading bot for Polymarket US temperature prediction markets. Identifies statistical discrepancies between     retail market prices and official NOAA NWS forecasts, then places limit orders when expected edge clears a              risk-adjusted threshold.
 
   > **Core signal logic is not public.** Architecture and design are documented here.
  ## How It Works
