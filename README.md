@@ -114,10 +114,8 @@
   - `eth-account` — wallet signing for on-chain order authentication
  
 
+  ![Bot demo]![demo gif](https://github.com/user-attachments/assets/52c3ee4f-7562-414f-a4ba-8d74c83fe2c3)
 
-  *Screen recording of the bot scanning markets, generating signals, and evaluating trade quality in observe mode:*
-
-  Demo: ![Animation](https://github.com/user-attachments/assets/d8c96e18-c841-4253-b3b4-5db2309dc9dc)
 
  ## Setup
 
