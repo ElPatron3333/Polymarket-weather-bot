@@ -114,7 +114,8 @@
   - `eth-account` — wallet signing for on-chain order authentication
  
 
-  ![Bot demo]![demo gif](https://github.com/user-attachments/assets/52c3ee4f-7562-414f-a4ba-8d74c83fe2c3)
+  ![demo gif](https://github.com/user-attachments/assets/66b3855e-7881-4379-a46d-5e6db75abece)
+
 
 
  ## Setup
