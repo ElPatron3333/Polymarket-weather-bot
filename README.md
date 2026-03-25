@@ -112,7 +112,9 @@
   - `aiohttp` — async HTTP for parallel market + weather data fetching
   - `numpy` / `scipy` — probability distribution modeling (normal distribution over temperature brackets)
   - `eth-account` — wallet signing for on-chain order authentication
- 
+
+
+ Live demo:
 
   ![demo gif](https://github.com/user-attachments/assets/66b3855e-7881-4379-a46d-5e6db75abece)
 
