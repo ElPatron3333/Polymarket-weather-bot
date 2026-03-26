@@ -115,11 +115,6 @@
   - `eth-account` — wallet signing for on-chain order authentication
 
 
- Live demo:
-
- ![demo gif](Animation.gif)
-
-
 
  ## Setup
 
